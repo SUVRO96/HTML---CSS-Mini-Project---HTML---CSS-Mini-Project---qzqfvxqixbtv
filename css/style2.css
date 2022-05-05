@@ -42,13 +42,20 @@ header {
   margin-right: 1rem;
 }
 
+.content {
+  width: 100%;
+  margin: 0px;
+}
+
 a {
   text-decoration: none;
   color: whitesmoke;
 }
+
 footer {
   background-color: black;
   color: whitesmoke;
+  border: 2px solid white;
 }
 
 .mrg1,
@@ -121,5 +128,9 @@ h4 {
   }
   img {
     height: auto;
+  }
+  .mrg1,
+  .mrg2 {
+    width: 90%;
   }
 }
