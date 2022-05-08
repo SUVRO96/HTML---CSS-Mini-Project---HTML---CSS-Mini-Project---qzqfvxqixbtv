@@ -1,5 +1,7 @@
 # HTML-CSS-Mini-Project
- This is a Photo Session booking page Model... 
+ This is a Photo session booking page created by Subhradip Nath... 
+#### Preview :
+![](Suvro's-Photography.png)
 ### Language Used :
 * Html
 * CSS
